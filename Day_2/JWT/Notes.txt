@@ -1,0 +1,9 @@
+JWT -> JSON Web Token (JSON - Javascript Object Notation)
+
+create backend and install
+npm i express nodemon cors dotenv jsonwebtoken
+npm init -y
+
+change in script json(refer image)
+
+create index.js
