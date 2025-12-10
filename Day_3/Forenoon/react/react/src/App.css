@@ -1,0 +1,14 @@
+/* simple full-page centering */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+}
+.app-centered {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #121212; /* optional */
+  color: #fff;         /* optional */
+  font-family: system-ui, sans-serif;
+}
